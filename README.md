@@ -38,6 +38,7 @@ The **Olympics Analysis Dashboard** is implemented as a Streamlit web applicatio
 
 ## Project Structure
 
+- `_pycache`: Streamlit app code.
 - `app.py`: Streamlit app code.
 - `data/`: Directory containing the Olympics dataset files.
 - `preprocessor.py`: Data preprocessing functions.
