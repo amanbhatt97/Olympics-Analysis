@@ -38,14 +38,13 @@ The **Olympics Analysis Dashboard** is implemented as a Streamlit web applicatio
 
 ## Project Structure
 
-- `_pycache`: Streamlit app code.
-- `app.py`: Streamlit app code.
 - `data/`: Directory containing the Olympics dataset files.
-- `preprocessor.py`: Data preprocessing functions.
-- `helper.py`: Helper functions for data analysis and visualization.
-- `requirements.txt`: List of required Python packages and their versions.
+- `olympics_analysis`: Notebook containing all the analysis and model training.
 - `README.md`: Overview of the project (you're reading it right now!).
-
+- `app.py`: Streamlit app code.
+- `helper.py`: Helper functions for data analysis and visualization.
+- `preprocessor.py`: Data preprocessing functions.
+- `requirements.txt`: List of required Python packages and their versions.
 
 ## Portfolio
 
