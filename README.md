@@ -1,6 +1,8 @@
 # Olympics Analysis Dashboard
 This interactive dashboard is built using Streamlit and provides an in-depth analysis of Olympic Games data. The dashboard offers insights into medal tallies, athlete performance, country-wise analysis, and more. It aims to help users explore and visualize various aspects of the Olympics.
 
+Access the deployed Streamlit web app [here](https://olympics-analysis.streamlit.app/).
+
 ## Table of Contents
 
 - [Description](#description)
@@ -8,7 +10,6 @@ This interactive dashboard is built using Streamlit and provides an in-depth ana
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Web App](#web_app)
 - [Portfolio](#portfolio)
 - [Contact](#contact)
 
@@ -26,7 +27,7 @@ The **Olympics Analysis Dashboard** is implemented as a Streamlit web applicatio
 
 ## Installation
 
-1. Clone this repository to your local machine: git clone https://github.com/amanbhatt97/Olympics-Analysis
+1. Clone this repository to your local machine: `git clone https://github.com/amanbhatt97/Olympics-Analysis`
 2. Install the required dependencies using `pip`: pip install -r requirements.txt
 
  ## Usage
@@ -44,9 +45,6 @@ The **Olympics Analysis Dashboard** is implemented as a Streamlit web applicatio
 - `requirements.txt`: List of required Python packages and their versions.
 - `README.md`: Overview of the project (you're reading it right now!).
 
-## Web App
-
-Access the deployed Streamlit web app [here](https://olympics-analysis.streamlit.app/).
 
 ## Portfolio
 
